@@ -1,0 +1,14 @@
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\bin\Debug\IntToAI_TermProject.exe.config
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.Form1.resources
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.Properties.Resources.resources
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.csproj.GenerateResource.Cache
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\bin\Debug\IntToAI_TermProject.exe
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\bin\Debug\IntToAI_TermProject.pdb
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.exe
+c:\users\bahadırakın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.pdb
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.csprojResolveAssemblyReference.cache
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\bin\Debug\NGenerics.dll
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\bin\Debug\NGenerics.xml
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\bin\Debug\IntToAI_TermProject.exe.config
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.exe
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\IntToAI_TermProject\IntToAI_TermProject\obj\Debug\IntToAI_TermProject.pdb
